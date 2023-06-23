@@ -1,0 +1,6 @@
+How to use
+ * Place Movies.py/3D-Movies.py in FYCREWirte Code
+ * Run python3 Movies.py/3D-Movies.py in the terminal
+Now your done
+
+Look in your home dir for the folder

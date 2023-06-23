@@ -1,0 +1,9 @@
+    How to run the server
+
+open your fyc dir (local) and look for APIServer.py
+then run it don't use a differnt port just use the normal port
+then run python3 APIServer.py --start in your terminal this will run the server you need
+if you don't have APIServer.py update fyc from the discord
+
+
+Discord: https://discord.gg/StHMMFVuGz
