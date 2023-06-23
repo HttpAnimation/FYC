@@ -1,0 +1,1 @@
+This index file can be deleted or edited it will never be used in the local version of fyc it's only used as the beta index.html for the beta live site
