@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>View Source</title>
+    <script>
+        function openViewSource() {
+            var url = document.getElementById("urlInput").value;
+            window.open("view-source:" + url, "_blank");
+        }
+    </script>
+</head>
+<body>
+    <h1>View Source</h1>
+    <label for="urlInput">Enter URL:</label>
+    <input type="text" id="urlInput">
+    <button onclick="openViewSource()">Open</button>
+</body>
+</html>
