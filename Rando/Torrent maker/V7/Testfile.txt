@@ -1,0 +1,5 @@
+name of torrent: EXP: torrentfile
+link to torrent: This is the link to the host
+torrent file: https://torrentlink.html
+magnet link: magnet://magnet
+

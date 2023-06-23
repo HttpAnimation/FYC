@@ -1,0 +1,46 @@
+/* Styling for the content */
+.content {
+  margin-left: 30%;
+  padding: 20px;
+  box-sizing: border-box;
+  position: relative;
+  left: 30%;
+  width: 70%;
+}
+
+/* Code for spaceing the side bar */
+.sidebar .button {
+  margin-bottom: 10px;
+}
+
+.sidebar .button-home {
+  background-color: #3B8BEA;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.sidebar .button-home:hover {
+  background-color: #2B6BAE;
+}
+
+
+
+
+
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+
+/* Media query to scale down layout for smaller screens */
+@media only screen and (max-width: 600px) {
+  .content {
+  margin-left: 0;
+  left: 0;
+  width: 100%;
+  }
+}
